@@ -1,9 +1,4 @@
 
-
--- SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
--- SET time_zone = "+00:00";
-
-
 CREATE TABLE users (
   id int(11) AUTO_INCREMENT primary key NOT NULL ,
   email varchar(20) NOT NULL,
